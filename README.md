@@ -13,7 +13,7 @@ A responsive and modern Recipe Book application built with **React** and **Mater
 
 ## 🌐 Live Demo
 
-👉 [Live Demo](https://recipe-book.vercel.app/)
+👉 [Live Demo](https://recipe-book98.vercel.app/)
 
 ---
 
