@@ -19,10 +19,10 @@ A responsive and modern Recipe Book application built with **React** and **Mater
 
 ## 📸 Screenshots
 
-<img src="./src/assets/1.png" width="400" />
-<img src="../src/assets/2.png" width="400" />
-<img src="./src/assets/3.png" width="400" />
-<img src="./src/assets/5.png" width="400" />
+<img src="./src/assets/1.png" width="600" />
+<img src="../src/assets/2.png" width="600" />
+<img src="./src/assets/3.png" width="600" />
+<img src="./src/assets/5.png" width="600" />
 
 ---
 
